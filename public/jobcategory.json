@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "logo": "https://img.freepik.com/free-photo/businesswoman-using-tablet-analysis-graph-company-finance-strategy-statistics-success-concept-planning-future-office-room_74952-1410.jpg?w=826&t=st=1682703279~exp=1682703879~hmac=ddb22c6b9a446dcd763d5c371936d20af9c5f957a59c5d7eb3a883ec5543fdc7",
+        "job":"Account & Finance",
+        "available": "300 jobs available"
+    },
+    {
+        "id": 2,
+        "logo": "https://as2.ftcdn.net/v2/jpg/05/53/25/59/1000_F_553255997_F7BsKNsyvS3McpA5maBwGl7Wny2BrRhT.jpg",
+        "job":"Creative Design",
+        "available": "100+ jobs available"
+    },
+    {
+        "id": 3,
+        "logo": "https://img.freepik.com/free-photo/graph-growth-development-improvement-profit-success-concept_53876-124848.jpg?w=740&t=st=1682703439~exp=1682704039~hmac=4bcb1ae5a5e8268b52032dca863f48fec61efe71a847f638a644b6713a904ba6",
+        "job":"Marketing & Sales",
+        "available": "150 jobs available"
+    },
+    {
+        "id": 4,
+        "logo": "https://img.freepik.com/free-photo/engineer-meeting-architectural-project-working-with-partner_1421-70.jpg?w=740&t=st=1682704380~exp=1682704980~hmac=f005ab21ffba70259efc620303481887d66e835584dc292191d02f739691f394",
+        "job":"Engineering Job",
+        "available": "224 jobs available"
+    }
+]
